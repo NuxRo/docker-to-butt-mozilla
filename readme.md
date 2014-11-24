@@ -4,7 +4,7 @@ Derived from https://github.com/DaveRandom/cloud-to-butt-mozilla
 
 ## Installing
 
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [DockerToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
 
 
 ## Building

@@ -31,8 +31,8 @@
     {
         var v = textNode.nodeValue;
     
-        v = v.replace(/\bdocker\b/g, "My Butt");
-        v = v.replace(/\bDocker\b/g, "My butt");
+        v = v.replace(/\bDocker\b/g, "My Butt");
+        v = v.replace(/\bdocker\b/g, "My butt");
     
         textNode.nodeValue = v;
     }
